@@ -1,0 +1,15 @@
+{
+	"name": "df-frankapro",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5b9371f8-f3cd-45f3-b921-08180c390b58",
+		"tenantId": "04a9f41d-04a7-4df6-bd6e-c73bd667fdac"
+	}
+}
