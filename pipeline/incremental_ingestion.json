@@ -168,7 +168,7 @@
 									"referenceName": "parquet_dynamic",
 									"type": "DatasetReference",
 									"parameters": {
-										"container": "bronzee",
+										"container": "bronze",
 										"folder": {
 											"value": "@pipeline().parameters.table",
 											"type": "Expression"
